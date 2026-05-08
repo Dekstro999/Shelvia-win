@@ -18,6 +18,6 @@ using System.Runtime.Versioning;
 [assembly: ComVisible(false)]
 
 
-[assembly: AssemblyVersion("1.23.0.0")]
-[assembly: AssemblyFileVersion("1.23.0.0")]
+[assembly: AssemblyVersion("1.23.2.0")]
+[assembly: AssemblyFileVersion("1.23.2.0")]
 [assembly: SupportedOSPlatform("windows")]
