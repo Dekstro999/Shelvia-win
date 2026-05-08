@@ -1,0 +1,22 @@
+## Shelvia / Visual Studio / .NET build outputs
+.vs/
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+/publish/
+artifacts/
+
+## User-specific Visual Studio files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Temporary files
+*.log
+*.tmp
+*.cache
+
+publish.md
